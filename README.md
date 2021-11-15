@@ -11,12 +11,11 @@ I am currently a college student who is always motivated to try new things, thin
 <a href="https://www.adobe.com/sea/products/premiere.html" target="_blank"> <img align="left" alt="Premiere" width="26px" src="https://www.adobe.com/content/dam/cc/icons/premiere.svg"/> </a> 
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg"/> </a>
 <a href="https://www.coreldraw.com/en" target="_blank"> <img align="left" alt="CorelDraw" width="100px" src="https://www.coreldraw.com/static/cdgs/images/home/coreldraw-2021-wm.png"/> </a>
-<br /> 
 <a href="https://developer.android.com/studio" target="_blank"> <img align="left" alt="Android Studio" width="26px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png"/> </a> 
 
 # 
 <p align="left">
-<a href="https://github.com/gilangadhan">
+<a href="https://github.com/MochArisandiJayanto">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MochArisandiJayanto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MochArisandiJayanto&layout=compact&langs_count=8&theme=algolia"/>
 </a>
