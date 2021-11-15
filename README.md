@@ -2,7 +2,7 @@
 
 My name **MOCH. ARISANDI JAYANTO** You can call me **Jaya**
 
-I am currently a college student who is always motivated to try new things, think critically and creatively. I have good communication skills and have a great interest in the digital world and I also have experience in an organization. I am now focusing on learning application programming on android or multi-platform and also learning website programming.
+I am currently a college student who is always motivated to try new things, think critically and creatively. I have good communication skills and have a great interest in the digital world and I also have experience in an organization. I am now focusing on learning application programming on android and multi-platform and also learning website programming.
 
 
 # Softwares:
