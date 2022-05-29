@@ -4,8 +4,6 @@ My name **MOCH. ARISANDI JAYANTO** You can call me **Jaya**
 
 I am currently a college student who is always motivated to try new things, think critically and creatively. I have good communication skills and have a great interest in the digital world and I also have experience in an organization. I am now focusing on learning application programming on android and multi-platform and also learning website programming.
 
-<a href="https://github.com/settings/appearance" target="_blank"> ![GitHub](https://img.shields.io/badge/Klik%20Here%20Change%20Github%20to%20Dark%20Theme-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
-
 # Contact me at
 <a href="https://t.me/Jaya_mrj" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="mailto:diajaya0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
