@@ -1,4 +1,4 @@
-# Hello! Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+# Hello! Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px">
 
 My name **MOCH. ARISANDI JAYANTO** You can call me **Jaya**
 
